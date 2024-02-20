@@ -12,7 +12,7 @@ This is a 3D maze puzzle game about a ball trying to collect all the stars in or
 ## Controls
 | Version | Controls |
 | --- | --- |
-| `Keyboard` | **Move**: WASD or arrow keys<br/>**Collect**: Space|
+| `Keyboard` | **Move**: WASD or arrow keys<br/>**Break Walls**: Space|
 
 ## Play the Game!
 Check out the published game on itch.io: https://nabeehaali.itch.io/portal-plunge 
