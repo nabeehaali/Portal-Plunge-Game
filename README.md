@@ -6,7 +6,7 @@ This is a 3D maze puzzle game about a ball trying to collect all the stars in or
 
 ## Core Game Features
 - Procedual Maze Generation based on the depth-first search algorithm
-- physics based movement to navigate the maze
+- Physics based movement to navigate the maze
 - Navmesh and Navmesh agents for AI behaviour
 
 ## Controls
