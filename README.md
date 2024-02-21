@@ -1,4 +1,4 @@
-# 🎈: Plush-To-The-Rescue
+# 🎈: Portal Plunge
  
 This is a 3D maze puzzle game about a ball trying to collect all the stars in order to escape the maze. You can break some walls in order to make it easier, but the enemies get faster everytime you do! 
 
